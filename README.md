@@ -31,13 +31,16 @@ June 1 – June 5
 | Topic                                       | Assignment          | Lecture | Slides | Demo |
 | ------------------------------------------- | ------------------- | ------- | ------ | ---- |
 | Dev Tools Setup (Warp, Cursor, Claude Code) | -                   | -       | -      | -    |
-| HTML & CSS                                  | [📝][html-css-asst] | -       | -      | -    |
-| Introduction to JavaScript                  | [📝][js-asst]       | -       | -      | -    |
-| Git (Solo Workflow)                         | [📝][git-solo-asst] | -       | -      | -    |
+| HTML & CSS                                  | [📝][html-css-asst] | -       | [PDF][html-css-slides] | -    |
+| Introduction to JavaScript                  | [📝][js-asst]       | -       | [PDF][js-slides] | -    |
+| Git (Solo Workflow)                         | [📝][git-solo-asst] | -       | [PDF][git-slides] | -    |
 
 [html-css-asst]: ./assignments/01-HTML-CSS.md
 [js-asst]: ./assignments/02-JS.md
 [git-solo-asst]: ./assignments/03-Git-Solo.md
+[html-css-slides]: ./slides/HTML-CSS.pdf
+[js-slides]: ./slides/JavaScript-The-Language.pdf
+[git-slides]: ./slides/Git-GitHub.pdf
 
 ---
 
@@ -48,10 +51,14 @@ June 8 – June 12
 | Topic                                  | Assignment            | Lecture | Slides | Demo |
 | -------------------------------------- | --------------------- | ------- | ------ | ---- |
 | AI Coding Tools (Codex, Claude Cowork) | -                     | -       | -      | -    |
-| HTML/CSS/JS Continued                  | -                     | -       | -      | -    |
-| Git (Collaborative Workflow)           | [📝][git-collab-asst] | -       | -      | -    |
+| HTML/CSS/JS Continued                  | [DOM I][dom-i-asst] / [DOM II][dom-ii-asst] | -       | [DOM I][dom-i-slides] / [DOM II][dom-ii-slides] | -    |
+| Git (Collaborative Workflow)           | [📝][git-collab-asst] | -       | [PDF][git-slides] | -    |
 
 [git-collab-asst]: ./assignments/04-Git-Collab.md
+[dom-i-asst]: ./assignments/04A-DOM-I.md
+[dom-ii-asst]: ./assignments/04B-DOM-II.md
+[dom-i-slides]: ./slides/DOM-1.pdf
+[dom-ii-slides]: ./slides/DOM-2.pdf
 
 ---
 
