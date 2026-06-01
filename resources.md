@@ -39,3 +39,12 @@ https://www.sqlzoo.net/wiki/SQL_Tutorial
 http://leetcode.com/
 
 https://www.codewars.com/
+
+
+
+## SET UP
+vscode: https://code.visualstudio.com/
+
+nodejs: https://nodejs.org/en
+
+git: https://git-scm.com/
