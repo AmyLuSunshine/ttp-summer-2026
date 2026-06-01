@@ -28,36 +28,35 @@ Let's build something great.
 
 June 1 – June 5
 
-| Topic                                       | Assignment          | Lecture | Slides | Demo |
-| ------------------------------------------- | ------------------- | ------- | ------ | ---- |
-| Dev Tools Setup (Warp, Cursor, Claude Code) | -                   | -       | -      | -    |
-| HTML & CSS                                  | [📝][html-css-asst] | -       | [PDF][html-css-slides] | -    |
-| Introduction to JavaScript                  | [📝][js-asst]       | -       | [PDF][js-slides] | -    |
-| Git (Solo Workflow)                         | [📝][git-solo-asst] | -       | [PDF][git-slides] | -    |
+| Topic                      | Assignment          | Lecture | Slides                 | Demo |
+| -------------------------- | ------------------- | ------- | ---------------------- | ---- |
+| Introduction to JavaScript | [📝][js-asst]       | -       | [PDF][js-slides]       | -    |
+| JavaScript Continued       | [📝][js-asst]       | -       | [PDF][js-slides]       | -    |
+| HTML & CSS                 | [📝][html-css-asst] | -       | [PDF][html-css-slides] | -    |
+| Git (Solo Workflow)        | [📝][git-solo-asst] | -       | [PDF][git-slides]      | -    |
 
-[html-css-asst]: ./assignments/01-HTML-CSS.md
-[js-asst]: ./assignments/02-JS.md
-[git-solo-asst]: ./assignments/03-Git-Solo.md
+[html-css-asst]: ./assignments/HTML-CSS.md
+[js-asst]: ./assignments/JS.md
+[git-solo-asst]: ./assignments/Git-Solo.md
 [html-css-slides]: ./slides/HTML-CSS.pdf
 [js-slides]: ./slides/JavaScript-The-Language.pdf
 [git-slides]: ./slides/Git-GitHub.pdf
 
 ---
 
-## Week 2: AI Coding Tools + HTML/CSS/JS/Git (Collaborative)
+## Week 2: HTML & JS/Git (Collaborative)
 
 June 8 – June 12
 
-| Topic                                  | Assignment            | Lecture | Slides | Demo |
-| -------------------------------------- | --------------------- | ------- | ------ | ---- |
-| AI Coding Tools (Codex, Claude Code)   | [📝][ai-tools-asst]  | -       | [PDF][ai-tools-slides] | -    |
-| HTML/CSS/JS Continued                  | [DOM I][dom-i-asst] / [DOM II][dom-ii-asst] | -       | [DOM I][dom-i-slides] / [DOM II][dom-ii-slides] | -    |
-| Git (Collaborative Workflow)           | [📝][git-collab-asst] | -       | [PDF][git-slides] | -    |
+| Topic                        | Assignment                                  | Lecture | Slides                                          | Demo |
+| ---------------------------- | ------------------------------------------- | ------- | ----------------------------------------------- | ---- |
+| HTML/CSS/JS Continued        | [DOM I][dom-i-asst] / [DOM II][dom-ii-asst] | -       | [DOM I][dom-i-slides] / [DOM II][dom-ii-slides] | -    |
+| Git (Collaborative Workflow) | [📝][git-collab-asst]                       | -       | [PDF][git-slides]                               | -    |
 
-[git-collab-asst]: ./assignments/04-Git-Collab.md
-[ai-tools-asst]: ./assignments/00-AI-Tools-Setup.md
-[dom-i-asst]: ./assignments/04A-DOM-I.md
-[dom-ii-asst]: ./assignments/04B-DOM-II.md
+[git-collab-asst]: ./assignments/Git-Collab.md
+[ai-tools-asst]: ./assignments/AI-Tools-Setup.md
+[dom-i-asst]: ./assignments/DOM-I.md
+[dom-ii-asst]: ./assignments/DOM-II.md
 [ai-tools-slides]: ./slides/AI-Primer.pdf
 [dom-i-slides]: ./slides/DOM-1.pdf
 [dom-ii-slides]: ./slides/DOM-2.pdf
@@ -70,15 +69,15 @@ June 15 – June 19
 </br>
 Off June 19 – JUNETEENTH
 
-| Topic        | Assignment        | Lecture | Slides | Demo |
-| ------------ | ----------------- | ------- | ------ | ---- |
-| React I      | [📝][react1-asst] | -       | [PDF][react1-slides] | -    |
+| Topic        | Assignment        | Lecture | Slides                      | Demo |
+| ------------ | ----------------- | ------- | --------------------------- | ---- |
+| React I      | [📝][react1-asst] | -       | [PDF][react1-slides]        | -    |
 | API Requests | [📝][api-asst]    | -       | [PDF][fullstack-api-slides] | -    |
-| React II     | [📝][react2-asst] | -       | [PDF][react2-slides] | -    |
+| React II     | [📝][react2-asst] | -       | [PDF][react2-slides]        | -    |
 
-[react1-asst]: ./assignments/05-React.md
-[api-asst]: ./assignments/06-APIRequests.md
-[react2-asst]: ./assignments/07-React2.md
+[react1-asst]: ./assignments/React.md
+[api-asst]: ./assignments/APIRequests.md
+[react2-asst]: ./assignments/React2.md
 [react1-slides]: ./slides/React-1.pdf
 [react2-slides]: ./slides/React-2-Forms.pdf
 [fullstack-api-slides]: ./slides/APIs-Express-CRUD.pdf
@@ -89,12 +88,12 @@ Off June 19 – JUNETEENTH
 
 June 22 – June 26
 
-| Topic                      | Assignment         | Lecture | Slides | Demo |
-| -------------------------- | ------------------ | ------- | ------ | ---- |
+| Topic                      | Assignment         | Lecture | Slides                      | Demo |
+| -------------------------- | ------------------ | ------- | --------------------------- | ---- |
 | Introduction to Express.js | [📝][express-asst] | -       | [PDF][fullstack-api-slides] | -    |
 | Middleware & Routing       | -                  | -       | [PDF][fullstack-api-slides] | -    |
 
-[express-asst]: ./assignments/08-Express.md
+[express-asst]: ./assignments/Express.md
 
 ---
 
@@ -104,13 +103,13 @@ June 29 – July 3
 </br>
 Off July 3 – INDEPENDENCE DAY (OBSERVED)
 
-| Topic           | Assignment           | Lecture | Slides | Demo |
-| --------------- | -------------------- | ------- | ------ | ---- |
-| PostgreSQL      | [📝][postgres-asst]  | -       | [PDF][postgres-slides] | -    |
+| Topic           | Assignment           | Lecture | Slides                  | Demo |
+| --------------- | -------------------- | ------- | ----------------------- | ---- |
+| PostgreSQL      | [📝][postgres-asst]  | -       | [PDF][postgres-slides]  | -    |
 | Sequelize (ORM) | [📝][sequelize-asst] | -       | [PDF][sequelize-slides] | -    |
 
-[postgres-asst]: ./assignments/09-PostgreSQL.md
-[sequelize-asst]: ./assignments/10-Sequelize.md
+[postgres-asst]: ./assignments/PostgreSQL.md
+[sequelize-asst]: ./assignments/Sequelize.md
 [postgres-slides]: ./slides/PostgreSQL.pdf
 [sequelize-slides]: ./slides/Sequelize.pdf
 
@@ -125,7 +124,7 @@ July 6 – July 10
 | Client-Side Routing (React Router) | [📝][routing-asst] | -       | -      | -    |
 | Curriculum Review                  | -                  | -       | -      | -    |
 
-[routing-asst]: ./assignments/11-ClientSideRouting.md
+[routing-asst]: ./assignments/ClientSideRouting.md
 
 ---
 
@@ -133,14 +132,14 @@ July 6 – July 10
 
 July 13 – July 17
 
-| Topic                             | Assignment      | Lecture | Slides | Demo |
-| --------------------------------- | --------------- | ------- | ------ | ---- |
+| Topic                             | Assignment      | Lecture | Slides                      | Demo |
+| --------------------------------- | --------------- | ------- | --------------------------- | ---- |
 | CRUD App (Solo)                   | [📝][crud-asst] | -       | [PDF][fullstack-api-slides] | -    |
-| Deployment (Vercel + Neon)        | -               | -       | -      | -    |
-| Authentication & Security (Auth0) | [📝][auth-asst] | -       | -      | -    |
+| Deployment (Vercel + Neon)        | -               | -       | -                           | -    |
+| Authentication & Security (Auth0) | [📝][auth-asst] | -       | -                           | -    |
 
-[crud-asst]: ./assignments/12-CRUD.md
-[auth-asst]: ./assignments/13-Auth.md
+[crud-asst]: ./assignments/CRUD.md
+[auth-asst]: ./assignments/Auth.md
 
 ---
 
