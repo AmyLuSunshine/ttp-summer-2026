@@ -30,17 +30,21 @@ June 1 – June 5
 
 | Topic                      | Assignment          | Lecture | Slides                 | Demo |
 | -------------------------- | ------------------- | ------- | ---------------------- | ---- |
-| Introduction to JavaScript | [📝][js-asst]       | -       | [PDF][js-slides]       | -    |
-| JavaScript Continued       | [📝][js-asst]       | -       | [PDF][js-slides]       | -    |
-| HTML & CSS                 | [📝][html-css-asst] | -       | [PDF][html-css-slides] | -    |
-| Git (Solo Workflow)        | [📝][git-solo-asst] | -       | [PDF][git-slides]      | -    |
+| Introduction to JavaScript | [📝][js-asst]       | -       | [PDF][js-slides]       | [JS][js-intro-demo]              |
+| JavaScript Continued       | [📝][js-asst]       | -       | [PDF][js-slides]       | [JS][js-part2-demo]              |
+| HTML & CSS                 | [📝][html-css-asst] | -       | [PDF][html-css-slides] | [HTML][html-demo] / [CSS][css-demo] |
+| Git (Solo Workflow)        | [📝][git-solo-asst] | -       | [PDF][git-slides]      | -                                |
 
-[html-css-asst]: ./assignments/HTML-CSS.md
-[js-asst]: ./assignments/JS.md
+[html-css-asst]: https://github.com/aghaffar570/TTP-workshops/tree/main/html-css
+[js-asst]: https://github.com/aghaffar570/TTP-workshops/tree/main/js-fundamentals
 [git-solo-asst]: ./assignments/Git-Solo.md
 [html-css-slides]: ./slides/HTML-CSS.pdf
 [js-slides]: ./slides/JavaScript-The-Language.pdf
 [git-slides]: ./slides/Git-GitHub.pdf
+[js-intro-demo]: ./demo_notes/js-intro.js
+[js-part2-demo]: ./demo_notes/js-part2.js
+[html-demo]: ./demo_notes/html-intro.html
+[css-demo]: ./demo_notes/css-intro.css
 
 ---
 
