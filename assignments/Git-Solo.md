@@ -197,3 +197,44 @@ Before submitting, verify:
 - [ ] Your `.gitignore` includes the required entries.
 - [ ] Your README includes the deployed URL.
 - [ ] Your work has been pushed to GitHub.
+
+Fork Sync Reference (Instructor Repo -> My Fork)
+One-Time Setup
+Check current remotes
+"git remote -v"
+
+Add instructor repo as upstream
+"git remote add upstream https://github.com/aghaffar570/ttp-summer-2026.git"
+
+Full Sync Workflow
+Go to main branch
+"git checkout main"
+
+Confirm branch and clean status
+"git branch --show-current"
+"git status"
+"git status --short --branch"
+
+Fetch newest instructor updates
+"git fetch upstream"
+
+Verify upstream branches
+"git branch -r"
+
+Merge instructor main into local main
+"git merge upstream/main"
+
+Verify commit history (optional)
+"git log --oneline --graph --decorate -10"
+
+Push updated local main to my fork
+"git push origin main"
+
+Final check
+"git status"
+
+Quick Routine (Next Time)
+"git checkout main"
+"git fetch upstream"
+"git merge upstream/main"
+"git push origin main"
