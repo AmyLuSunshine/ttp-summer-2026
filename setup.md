@@ -53,6 +53,7 @@ git config --global user.name "FirstName LastName"
 git config --global user.email "yourEmail@example.com"
 ```
 IMPORTANT: Use the same email as your GitHub account.
+Good to know: To override for a specific repo, run the same commands without `--global` inside that repo's folder.
 
 This only needs to be done once per computer.
 
