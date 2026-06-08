@@ -87,7 +87,7 @@ When you push to GitHub for the first time, Git will ask for your username and p
 Your computer will save it automatically after the first time — you won't be asked again.
 
 
-### SSH 
+### SSH (optional - if you did PAT, you don't need this)
 
 step by step guide:
 
