@@ -39,15 +39,3 @@ https://www.sqlzoo.net/wiki/SQL_Tutorial
 http://leetcode.com/
 
 https://www.codewars.com/
-
-
-
-## SET UP
-vscode: https://code.visualstudio.com/
-> live server extension: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-
-> search here for more vscode customizations: https://marketplace.visualstudio.com/VSCode
-
-nodejs: https://nodejs.org/en
-
-git: https://git-scm.com/

@@ -138,13 +138,15 @@ Take a screenshot or copy the output into a notes section in your `README.md` un
 
 Deploy the site with GitHub Pages:
 
-- [ ] Go to repository Settings.
-- [ ] Open Pages.
-- [ ] Set source to the `main` branch.
-- [ ] Save the settings.
-- [ ] Wait for the deployment to finish.
-- [ ] Add the deployed URL to your `README.md`.
-- [ ] Commit and push the README update.
+- [ ] Go to repository Settings
+- [ ] Click Pages in the left sidebar
+- [ ] Under Build and deployment, click the Source dropdown and select Deploy from a branch
+- [ ] Under Branch, select main and keep the folder as / (root)
+- [ ] Click Save
+- [ ] Wait a minute or two for the deployment to finish
+- [ ] Refresh the page — GitHub will show you your live URL at the top
+- [ ] Copy that URL and add it to your README.md
+- [ ] Commit and push the README update
 
 GitHub Pages URL format:
 
